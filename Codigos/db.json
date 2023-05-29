@@ -1,0 +1,26 @@
+{
+    "produtos": [
+    {
+    "id": 1,
+    "nome":"Rosa",
+    "descricao": "Flor Rosa",
+    "valor": 10,
+    "imagem": "img/Red_rose.jpg"
+    },
+    {
+    "id": 2,
+    "nome":"Girassol",
+    "descricao": "Flor amarela",
+    "valor": 15,
+    "imagem" : "img/Sunflower_sky_backdrop.jpg"
+    },
+    {
+    "id": 3,
+    "nome":"Lirio",
+    "descricao": "Flor Branca",
+    "valor": 5.25,
+    "imagem" : "img/Lilium_rosthornii.jpg"
+    }
+    ]
+   }
+  
