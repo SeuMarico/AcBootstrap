@@ -2,25 +2,50 @@
     "produtos": [
     {
     "id": 1,
-    "nome":"Rosa",
-    "descricao": "Flor Rosa",
-    "valor": 10,
-    "imagem": "img/Red_rose.jpg"
+    "nome":"Açai Goola",
+    "descricao": "1 Litro",
+    "valor": "R$28,90",
+    "imagem": "Imagens/acai.png"
     },
+
     {
     "id": 2,
-    "nome":"Girassol",
-    "descricao": "Flor amarela",
-    "valor": 15,
-    "imagem" : "img/Sunflower_sky_backdrop.jpg"
+    "nome":"Amendoa Defumada",
+    "descricao": "Amend",
+    "valor": "R$6,00",
+    "imagem" : "Imagens/amenduas.jpg"
     },
+
     {
     "id": 3,
-    "nome":"Lirio",
-    "descricao": "Flor Branca",
-    "valor": 5.25,
-    "imagem" : "img/Lilium_rosthornii.jpg"
-    }
+    "nome":"Ameixa Sem Caroço",
+    "descricao": "Ameixa",
+    "valor": "R$7,45",
+    "imagem" : "Imagens/ameixa.webp"
+    },
+
+    {
+    "id": 4,
+    "nome":"Manteiga Chee Vegana",
+    "descricao": "Manteiga Vegana",
+    "valor": "R$27,15",
+    "imagem": "Imagens/manteiga.webp"
+    },
+
+    {
+    "id": 5,
+    "nome":"Vinagre Balsemico",
+    "descricao": "Vinagre",
+    "valor": "R$10",
+    "imagem": "Imagens/vinagre.webp"
+     },
+     {
+        "id": 6,
+        "nome":"Sal Marinho",
+        "descricao": "Sal Vitão 1KG",
+        "valor": "R$7,79",
+        "imagem": "Imagens/salmarinho.webp"
+         } 
     ]
    }
   

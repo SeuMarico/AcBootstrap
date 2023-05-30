@@ -6,9 +6,11 @@ fetch(url)
 function mostraProdutos(produtos){
  const htmlProdutos = produtos.map(
  (produto) =>`
+ <div class="Produtos">
  <img src=${produto.imagem} width=100 height=100><br>
- <h2>${produto.descricao}</h2>
- <h4>Valor : ${produto.valor}</h4>`
+ <h2>${produto.nome}</h2>
+ <h5>${produto.descricao}</h5>
+ <h4>Valor : ${produto.valor}</h4> </div>`
  );
  document.getElementById('app').innerHTML = htmlProdutos;
 }
